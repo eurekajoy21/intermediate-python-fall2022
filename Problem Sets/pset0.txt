@@ -1,4 +1,0 @@
-pset0:
-
-1. Build a memoize decorator to cache inferences from a model.
-2. Build a function that returns an animated plotly chart
