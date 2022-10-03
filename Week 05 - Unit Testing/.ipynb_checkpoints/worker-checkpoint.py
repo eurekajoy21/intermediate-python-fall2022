@@ -14,6 +14,4 @@ class NormalIncrease:
         self.salary = int(self.salary * self.raise_amt)
 
 
-dorj = NormalIncrease("Dorj","Misha", 800000)
-myagmar = NormalIncrease("Myagmar","Bold", 760000)
 
